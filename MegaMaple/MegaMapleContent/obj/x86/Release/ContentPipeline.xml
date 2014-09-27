@@ -1,0 +1,2495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\0.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\0.xnb</Output>
+      <Time>2014-07-27T16:19:57.6738122-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\1.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\1.xnb</Output>
+      <Time>2014-07-27T16:19:57.722815-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\10.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\10.xnb</Output>
+      <Time>2014-07-27T16:19:57.6918132-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\11.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\11.xnb</Output>
+      <Time>2014-07-27T16:19:57.6988136-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\12.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\12.xnb</Output>
+      <Time>2014-07-27T16:19:57.705814-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\13.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\13.xnb</Output>
+      <Time>2014-07-27T16:19:57.7098143-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\14.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\14.xnb</Output>
+      <Time>2014-07-27T16:19:57.7148146-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\15.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\15.xnb</Output>
+      <Time>2014-07-27T16:19:57.7178147-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\16.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\16.xnb</Output>
+      <Time>2014-07-27T16:19:57.7188148-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\17.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\17.xnb</Output>
+      <Time>2014-07-27T16:19:57.7198148-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\18.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\18.xnb</Output>
+      <Time>2014-07-27T16:19:57.7208149-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\19.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\19.xnb</Output>
+      <Time>2014-07-27T16:19:57.7238151-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\2.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\2.xnb</Output>
+      <Time>2014-07-27T16:19:57.7258152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\3.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\3.xnb</Output>
+      <Time>2014-07-27T16:19:57.7268152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\4.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\4.xnb</Output>
+      <Time>2014-07-27T16:19:57.7288154-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\5.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\5.xnb</Output>
+      <Time>2014-07-27T16:19:57.7298154-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\6.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\6.xnb</Output>
+      <Time>2014-07-27T16:19:57.7318155-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\7.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\7.xnb</Output>
+      <Time>2014-07-27T16:19:57.7388159-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\8.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\8.xnb</Output>
+      <Time>2014-07-27T16:19:57.7478164-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\9.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\9.xnb</Output>
+      <Time>2014-07-27T16:19:57.6838128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\0.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\0.xnb</Output>
+      <Time>2014-07-28T10:56:46.7184434-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\1.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\1.xnb</Output>
+      <Time>2014-07-28T10:56:45.7023852-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\2.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\2.xnb</Output>
+      <Time>2014-07-28T10:56:45.0533481-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\3.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\3.xnb</Output>
+      <Time>2014-07-28T10:56:46.0504051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\4.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\4.xnb</Output>
+      <Time>2014-07-28T10:56:47.237473-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\5.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\5.xnb</Output>
+      <Time>2014-07-28T10:56:46.345422-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\6.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\6.xnb</Output>
+      <Time>2014-07-28T10:56:44.5713205-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_0.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_0.xnb</Output>
+      <Time>2014-07-25T15:32:29.6314423-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_1.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_1.xnb</Output>
+      <Time>2014-07-25T15:32:30.1274706-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_10.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_10.xnb</Output>
+      <Time>2014-07-25T15:32:32.0485805-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_11.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_11.xnb</Output>
+      <Time>2014-07-25T15:32:32.7886229-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_12.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_12.xnb</Output>
+      <Time>2014-07-25T15:32:33.1366428-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_13.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_13.xnb</Output>
+      <Time>2014-07-25T15:32:33.5526666-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_14.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_14.xnb</Output>
+      <Time>2014-07-25T15:32:33.9166874-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_15.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_15.xnb</Output>
+      <Time>2014-07-25T15:32:34.3257108-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_16.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_16.xnb</Output>
+      <Time>2014-07-25T15:32:34.7407345-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_2.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_2.xnb</Output>
+      <Time>2014-07-25T15:32:30.5064923-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_3.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_3.xnb</Output>
+      <Time>2014-07-25T15:32:30.8595125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_4.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_4.xnb</Output>
+      <Time>2014-07-25T15:32:31.3005377-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_5.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_5.xnb</Output>
+      <Time>2014-07-25T15:32:31.6405572-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_6.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_6.xnb</Output>
+      <Time>2014-07-25T15:32:32.0485805-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_7.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_7.xnb</Output>
+      <Time>2014-07-25T15:32:32.3986005-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_8.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_8.xnb</Output>
+      <Time>2014-07-25T15:32:32.0485805-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_9.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_9.xnb</Output>
+      <Time>2014-07-25T15:32:32.3986005-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pixel.png</Source>
+      <Name>Textures\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\pixel.xnb</Output>
+      <Time>2014-07-05T11:16:47.0703855-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\background.xnb</Output>
+      <Time>2014-07-23T00:38:34.3731951-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\aria.png</Source>
+      <Name>Textures\aria</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\aria.xnb</Output>
+      <Time>2014-07-04T19:57:09.7182036-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\dexless.png</Source>
+      <Name>Textures\dexless</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\dexless.xnb</Output>
+      <Time>2014-07-29T23:07:47.8439753-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\chatbox.png</Source>
+      <Name>Textures\chatbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\chatbox.xnb</Output>
+      <Time>2014-07-05T20:14:29.9165204-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\maplabel.png</Source>
+      <Name>Textures\maplabel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\maplabel.xnb</Output>
+      <Time>2014-07-06T00:11:06.45278-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\mirror.png</Source>
+      <Name>Textures\mirror</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\mirror.xnb</Output>
+      <Time>2014-07-05T18:45:40.1539096-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Mushmom.png</Source>
+      <Name>Textures\Mushmom\Mushmom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Mushmom.xnb</Output>
+      <Time>2014-07-09T20:11:40.8023846-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebar.PNG</Source>
+      <Name>Textures\lifebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebar.xnb</Output>
+      <Time>2014-07-11T00:24:50.7535006-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebarpart.png</Source>
+      <Name>Textures\lifebarpart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart.xnb</Output>
+      <Time>2014-07-26T13:09:08.4233274-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\secret.png</Source>
+      <Name>Textures\secret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\secret.xnb</Output>
+      <Time>2014-07-11T12:05:38.4905296-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bustershot.png</Source>
+      <Name>Textures\bustershot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\bustershot.xnb</Output>
+      <Time>2014-07-14T11:53:32.4914477-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\enemylifebar.PNG</Source>
+      <Name>Textures\enemylifebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\enemylifebar.xnb</Output>
+      <Time>2014-07-16T18:29:11.4353593-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\enemylifebarpart.png</Source>
+      <Name>Textures\enemylifebarpart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\enemylifebarpart.xnb</Output>
+      <Time>2014-07-16T18:28:38.2004584-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_000.png</Source>
+      <Name>Textures\Mushmom\Move\frame_000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_000.xnb</Output>
+      <Time>2014-07-21T11:26:09.3270084-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_001.png</Source>
+      <Name>Textures\Mushmom\Move\frame_001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_001.xnb</Output>
+      <Time>2014-07-21T11:27:08.3373836-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_002.png</Source>
+      <Name>Textures\Mushmom\Move\frame_002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_002.xnb</Output>
+      <Time>2014-07-21T11:26:53.5825397-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_003.png</Source>
+      <Name>Textures\Mushmom\Move\frame_003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_003.xnb</Output>
+      <Time>2014-07-21T11:26:46.4011289-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_004.png</Source>
+      <Name>Textures\Mushmom\Move\frame_004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_004.xnb</Output>
+      <Time>2014-07-21T11:26:40.353783-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_005.png</Source>
+      <Name>Textures\Mushmom\Move\frame_005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_005.xnb</Output>
+      <Time>2014-07-21T11:26:31.2372616-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_000f.png</Source>
+      <Name>Textures\Mushmom\Move\frame_000f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_000f.xnb</Output>
+      <Time>2014-07-21T16:18:33.453475-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_001f.png</Source>
+      <Name>Textures\Mushmom\Move\frame_001f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_001f.xnb</Output>
+      <Time>2014-07-21T16:18:43.0310228-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_002f.png</Source>
+      <Name>Textures\Mushmom\Move\frame_002f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_002f.xnb</Output>
+      <Time>2014-07-21T16:18:36.215633-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_003f.png</Source>
+      <Name>Textures\Mushmom\Move\frame_003f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_003f.xnb</Output>
+      <Time>2014-07-21T16:18:39.3598128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_004f.png</Source>
+      <Name>Textures\Mushmom\Move\frame_004f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_004f.xnb</Output>
+      <Time>2014-07-21T16:18:41.2559213-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mushmom\Move\frame_005f.png</Source>
+      <Name>Textures\Mushmom\Move\frame_005f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_005f.xnb</Output>
+      <Time>2014-07-21T16:18:37.7997236-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Idle\frame_000.png</Source>
+      <Name>Textures\PinkBean\Idle\frame_000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_000.xnb</Output>
+      <Time>2014-07-22T18:32:11.4215043-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Idle\frame_001.png</Source>
+      <Name>Textures\PinkBean\Idle\frame_001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_001.xnb</Output>
+      <Time>2014-07-22T18:32:30.0988873-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Idle\frame_002.png</Source>
+      <Name>Textures\PinkBean\Idle\frame_002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_002.xnb</Output>
+      <Time>2014-07-22T18:32:43.3702076-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Idle\frame_003.png</Source>
+      <Name>Textures\PinkBean\Idle\frame_003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_003.xnb</Output>
+      <Time>2014-07-22T18:32:54.7621844-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Idle\frame_004.png</Source>
+      <Name>Textures\PinkBean\Idle\frame_004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_004.xnb</Output>
+      <Time>2014-07-22T18:33:05.0966516-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Idle\frame_005.png</Source>
+      <Name>Textures\PinkBean\Idle\frame_005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_005.xnb</Output>
+      <Time>2014-07-22T18:33:15.7435766-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pinkbeanbackground.png</Source>
+      <Name>Textures\pinkbeanbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\pinkbeanbackground.xnb</Output>
+      <Time>2014-07-24T23:37:26.984843-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_0.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_0.xnb</Output>
+      <Time>2014-07-24T17:41:30.6633313-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_1.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_1.xnb</Output>
+      <Time>2014-07-24T17:41:30.9883499-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_10.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_10.xnb</Output>
+      <Time>2014-07-24T17:41:34.2375357-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_11.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_11.xnb</Output>
+      <Time>2014-07-24T17:41:34.5425532-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_12.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_12.xnb</Output>
+      <Time>2014-07-24T17:41:34.8535709-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_13.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_13.xnb</Output>
+      <Time>2014-07-24T17:41:35.2535938-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_14.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_14.xnb</Output>
+      <Time>2014-07-24T17:41:35.5626115-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_15.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_15.xnb</Output>
+      <Time>2014-07-24T17:41:35.956634-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_16.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_16.xnb</Output>
+      <Time>2014-07-24T17:41:36.2586513-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_17.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_17.xnb</Output>
+      <Time>2014-07-24T17:41:36.6246722-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_18.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_18.xnb</Output>
+      <Time>2014-07-24T17:41:36.9406903-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_19.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_19.xnb</Output>
+      <Time>2014-07-24T17:41:29.2802522-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_2.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_2.xnb</Output>
+      <Time>2014-07-24T17:41:31.3123684-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_3.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_3.xnb</Output>
+      <Time>2014-07-24T17:41:31.7033908-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_4.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_4.xnb</Output>
+      <Time>2014-07-24T17:41:32.0154086-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_5.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_5.xnb</Output>
+      <Time>2014-07-24T17:41:32.4304323-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_6.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_6.xnb</Output>
+      <Time>2014-07-24T17:41:32.7364499-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_7.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_7.xnb</Output>
+      <Time>2014-07-24T17:41:33.124472-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_8.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_8.xnb</Output>
+      <Time>2014-07-24T17:41:33.526495-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\frame_9.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\frame_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_9.xnb</Output>
+      <Time>2014-07-24T17:41:33.8395129-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\pbdr.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\pbdr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\pbdr.xnb</Output>
+      <Time>2014-07-23T01:50:02.9124855-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\DamageReflect\Deflect_Missiles.png</Source>
+      <Name>Textures\PinkBean\Attacks\DamageReflect\Deflect_Missiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\Deflect_Missiles.xnb</Output>
+      <Time>2014-07-24T16:08:36.3564992-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_17.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_17.xnb</Output>
+      <Time>2014-07-25T15:32:35.0617529-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_18.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_18.xnb</Output>
+      <Time>2014-07-25T15:32:35.448775-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_19.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_19.xnb</Output>
+      <Time>2014-07-25T15:32:35.7737936-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_0.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_0.xnb</Output>
+      <Time>2014-07-24T18:56:04.1421996-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_1.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_1.xnb</Output>
+      <Time>2014-07-24T19:02:48.8883498-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_10.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_10.xnb</Output>
+      <Time>2014-07-24T19:02:53.8826354-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_11.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_11.xnb</Output>
+      <Time>2014-07-24T19:02:54.206654-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_12.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_12.xnb</Output>
+      <Time>2014-07-24T19:02:54.5976763-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_13.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_13.xnb</Output>
+      <Time>2014-07-24T19:02:54.9296953-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_14.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_14.xnb</Output>
+      <Time>2014-07-24T19:02:55.3527195-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_15.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_15.xnb</Output>
+      <Time>2014-07-24T19:02:55.7697434-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_16.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_16.xnb</Output>
+      <Time>2014-07-24T19:02:56.0867615-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_17.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_17.xnb</Output>
+      <Time>2014-07-24T19:02:56.4997851-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_18.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_18.xnb</Output>
+      <Time>2014-07-24T19:02:56.8138031-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_19.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_19.xnb</Output>
+      <Time>2014-07-24T19:02:57.1418219-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_2.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_2.xnb</Output>
+      <Time>2014-07-24T19:02:49.4703831-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_20.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_20.xnb</Output>
+      <Time>2014-07-24T18:55:09.8030916-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_21.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_21.xnb</Output>
+      <Time>2014-07-24T19:02:57.5658461-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_22.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_22.xnb</Output>
+      <Time>2014-07-24T19:02:57.8238609-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_23.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_23.xnb</Output>
+      <Time>2014-07-24T19:02:58.2078828-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_3.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_3.xnb</Output>
+      <Time>2014-07-24T19:02:50.1874241-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_4.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_4.xnb</Output>
+      <Time>2014-07-24T19:02:50.8754634-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_5.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_5.xnb</Output>
+      <Time>2014-07-24T19:02:51.5725033-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_6.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_6.xnb</Output>
+      <Time>2014-07-24T19:02:52.2675431-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_7.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_7.xnb</Output>
+      <Time>2014-07-24T19:02:52.772572-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_8.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_8.xnb</Output>
+      <Time>2014-07-24T19:02:53.1485935-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BigBang\frame_9.png</Source>
+      <Name>Textures\PinkBean\Attacks\BigBang\frame_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_9.xnb</Output>
+      <Time>2014-07-24T19:02:53.4826126-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_0.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_0.xnb</Output>
+      <Time>2014-07-25T11:52:33.8956894-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_1.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_1.xnb</Output>
+      <Time>2014-07-25T11:52:34.3917177-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_10.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_10.xnb</Output>
+      <Time>2014-07-25T11:52:37.8279143-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_11.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_11.xnb</Output>
+      <Time>2014-07-25T11:52:38.225937-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_12.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_12.xnb</Output>
+      <Time>2014-07-25T11:52:38.5589561-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_13.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_13.xnb</Output>
+      <Time>2014-07-25T11:52:38.9919809-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_14.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_14.xnb</Output>
+      <Time>2014-07-25T11:52:39.3300002-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_15.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_15.xnb</Output>
+      <Time>2014-07-25T11:52:39.7480241-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_16.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_16.xnb</Output>
+      <Time>2014-07-25T11:52:40.0700425-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_17.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_17.xnb</Output>
+      <Time>2014-07-25T11:52:40.4680653-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_18.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_18.xnb</Output>
+      <Time>2014-07-25T11:52:40.7730827-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_19.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_19.xnb</Output>
+      <Time>2014-07-25T11:52:41.110102-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_2.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_2.xnb</Output>
+      <Time>2014-07-25T11:52:34.8187422-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_3.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_3.xnb</Output>
+      <Time>2014-07-25T11:52:35.1457609-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_4.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_4.xnb</Output>
+      <Time>2014-07-25T11:52:35.567785-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_5.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_5.xnb</Output>
+      <Time>2014-07-25T11:52:35.9948094-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_6.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_6.xnb</Output>
+      <Time>2014-07-25T11:52:36.3318287-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_7.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_7.xnb</Output>
+      <Time>2014-07-25T11:52:36.7578531-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_8.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_8.xnb</Output>
+      <Time>2014-07-25T11:52:37.0978725-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_9.png</Source>
+      <Name>Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_9.xnb</Output>
+      <Time>2014-07-25T11:52:37.4968953-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebarpart2.png</Source>
+      <Name>Textures\lifebarpart2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart2.xnb</Output>
+      <Time>2014-07-26T13:10:41.9409888-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebarpart3.png</Source>
+      <Name>Textures\lifebarpart3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart3.xnb</Output>
+      <Time>2014-07-26T13:53:24.3478642-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\0.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\0.xnb</Output>
+      <Time>2014-07-26T15:45:21.7627453-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\1.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\1.xnb</Output>
+      <Time>2014-07-26T15:45:21.7687456-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\10.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\10.xnb</Output>
+      <Time>2014-07-26T15:45:21.7987473-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\11.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\11.xnb</Output>
+      <Time>2014-07-26T15:45:21.8247488-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\12.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\12.xnb</Output>
+      <Time>2014-07-26T15:45:21.8507503-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\13.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\13.xnb</Output>
+      <Time>2014-07-26T15:45:21.8777519-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\14.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\14.xnb</Output>
+      <Time>2014-07-26T15:45:21.9047534-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\15.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\15.xnb</Output>
+      <Time>2014-07-26T15:45:21.9357552-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\16.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\16.xnb</Output>
+      <Time>2014-07-26T15:45:21.9687571-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\17.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\17.xnb</Output>
+      <Time>2014-07-26T15:45:21.9967587-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\18.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\18.xnb</Output>
+      <Time>2014-07-26T15:45:22.0237602-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\19.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\19.xnb</Output>
+      <Time>2014-07-26T15:45:22.0487616-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\2.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\2.xnb</Output>
+      <Time>2014-07-26T15:45:22.0507618-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\20.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\20.xnb</Output>
+      <Time>2014-07-26T15:45:22.0757632-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\21.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\21.xnb</Output>
+      <Time>2014-07-26T15:45:22.0957643-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\22.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\22.xnb</Output>
+      <Time>2014-07-26T15:45:22.1177656-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\23.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\23.xnb</Output>
+      <Time>2014-07-26T15:45:22.1307663-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\24.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\24.xnb</Output>
+      <Time>2014-07-26T15:45:22.1347666-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\25.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\25.xnb</Output>
+      <Time>2014-07-26T15:45:22.1357666-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\26.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\26.xnb</Output>
+      <Time>2014-07-26T15:45:22.1367667-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\27.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\27.xnb</Output>
+      <Time>2014-07-26T15:45:22.1377667-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\3.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\3.xnb</Output>
+      <Time>2014-07-26T15:45:22.1397668-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\4.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\4.xnb</Output>
+      <Time>2014-07-26T15:45:22.1487674-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\5.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\5.xnb</Output>
+      <Time>2014-07-26T15:45:22.1517675-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\6.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\6.xnb</Output>
+      <Time>2014-07-26T15:45:22.1547677-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\7.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\7.xnb</Output>
+      <Time>2014-07-26T15:45:22.1577679-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\8.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\8.xnb</Output>
+      <Time>2014-07-26T15:45:22.1617681-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\GenesisEffect\9.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\GenesisEffect\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\9.xnb</Output>
+      <Time>2014-07-26T15:45:22.1657683-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\0.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\0.xnb</Output>
+      <Time>2014-07-27T11:15:08.1147093-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\1.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\1.xnb</Output>
+      <Time>2014-07-27T11:15:08.1177094-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\10.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\10.xnb</Output>
+      <Time>2014-07-27T11:15:08.1207096-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\11.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\11.xnb</Output>
+      <Time>2014-07-27T11:15:08.1247098-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\12.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\12.xnb</Output>
+      <Time>2014-07-27T11:15:08.12771-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\13.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\13.xnb</Output>
+      <Time>2014-07-27T11:15:08.1307102-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\14.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\14.xnb</Output>
+      <Time>2014-07-27T11:15:08.1327103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\2.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\2.xnb</Output>
+      <Time>2014-07-27T11:15:08.1357105-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\3.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\3.xnb</Output>
+      <Time>2014-07-27T11:15:08.1377106-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\4.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\4.xnb</Output>
+      <Time>2014-07-27T11:15:08.1437109-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\5.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\5.xnb</Output>
+      <Time>2014-07-27T11:15:08.1467111-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\6.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\6.xnb</Output>
+      <Time>2014-07-27T11:15:08.1497113-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\7.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\7.xnb</Output>
+      <Time>2014-07-27T11:15:08.1527114-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\8.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\8.xnb</Output>
+      <Time>2014-07-27T11:15:08.1597118-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\Genesis\CastingAnimation\9.png</Source>
+      <Name>Textures\PinkBean\Attacks\Genesis\CastingAnimation\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\9.xnb</Output>
+      <Time>2014-07-27T11:15:08.1407108-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\10.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\10.xnb</Output>
+      <Time>2014-07-27T16:21:58.4067177-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\11.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\11.xnb</Output>
+      <Time>2014-07-27T16:21:58.4077178-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\12.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\12.xnb</Output>
+      <Time>2014-07-27T16:21:58.4097179-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\13.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\13.xnb</Output>
+      <Time>2014-07-27T16:21:58.410718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\14.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\14.xnb</Output>
+      <Time>2014-07-27T16:21:58.411718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\15.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\15.xnb</Output>
+      <Time>2014-07-27T16:21:58.411718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\16.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\16.xnb</Output>
+      <Time>2014-07-27T16:21:58.411718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\17.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\17.xnb</Output>
+      <Time>2014-07-27T16:21:58.411718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\18.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\18.xnb</Output>
+      <Time>2014-07-27T16:21:58.411718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\19.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\19.xnb</Output>
+      <Time>2014-07-27T16:21:58.411718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\7.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\7.xnb</Output>
+      <Time>2014-07-28T10:56:45.3963677-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\8.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\8.xnb</Output>
+      <Time>2014-07-27T16:21:58.3897168-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\Attacks\BeanQuake\Effect\9.png</Source>
+      <Name>Textures\PinkBean\Attacks\BeanQuake\Effect\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\9.xnb</Output>
+      <Time>2014-07-27T16:21:58.3957171-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\0.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\0.xnb</Output>
+      <Time>2014-07-27T23:33:32.025748-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\1.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\1.xnb</Output>
+      <Time>2014-07-27T23:33:32.0397488-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\10.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\10.xnb</Output>
+      <Time>2014-07-27T23:33:32.0157475-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\11.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\11.xnb</Output>
+      <Time>2014-07-27T23:33:32.0167475-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\12.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\12.xnb</Output>
+      <Time>2014-07-27T23:33:32.0177476-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\13.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\13.xnb</Output>
+      <Time>2014-07-27T23:33:32.0197477-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\14.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\14.xnb</Output>
+      <Time>2014-07-27T23:33:32.0207477-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\15.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\15.xnb</Output>
+      <Time>2014-07-27T23:33:32.0217478-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\16.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\16.xnb</Output>
+      <Time>2014-07-27T23:33:32.0237479-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\17.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\17.xnb</Output>
+      <Time>2014-07-27T23:33:32.024748-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\18.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\18.xnb</Output>
+      <Time>2014-07-27T23:33:32.0267481-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\19.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\19.xnb</Output>
+      <Time>2014-07-27T23:33:32.0287482-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\2.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\2.xnb</Output>
+      <Time>2014-07-27T23:33:32.0557497-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\20.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\20.xnb</Output>
+      <Time>2014-07-27T23:33:32.0297483-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\21.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\21.xnb</Output>
+      <Time>2014-07-27T23:33:32.0307483-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\22.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\22.xnb</Output>
+      <Time>2014-07-27T23:33:32.0327484-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\23.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\23.xnb</Output>
+      <Time>2014-07-27T23:33:32.0337485-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\24.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\24.xnb</Output>
+      <Time>2014-07-27T23:33:32.0347485-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\25.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\25.xnb</Output>
+      <Time>2014-07-27T23:33:32.0357486-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\26.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\26.xnb</Output>
+      <Time>2014-07-27T23:33:32.0377487-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\27.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\27.xnb</Output>
+      <Time>2014-07-27T23:33:32.0387488-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\28.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\28.xnb</Output>
+      <Time>2014-07-27T23:33:32.0417489-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\29.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\29.xnb</Output>
+      <Time>2014-07-27T23:33:32.042749-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\3.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\3.xnb</Output>
+      <Time>2014-07-27T23:33:32.0707506-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\30.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\30.xnb</Output>
+      <Time>2014-07-27T23:33:32.0437491-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\31.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\31.xnb</Output>
+      <Time>2014-07-27T23:33:32.0457492-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\32.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\32.xnb</Output>
+      <Time>2014-07-27T23:33:32.0477493-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\33.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\33.xnb</Output>
+      <Time>2014-07-27T23:33:32.0487493-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\34.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\34.xnb</Output>
+      <Time>2014-07-27T23:33:32.0507495-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\35.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\35.xnb</Output>
+      <Time>2014-07-27T23:33:32.0517495-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\36.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\36.xnb</Output>
+      <Time>2014-07-27T23:33:32.0527496-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\37.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\37.xnb</Output>
+      <Time>2014-07-27T23:33:32.0547497-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\38.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\38.xnb</Output>
+      <Time>2014-07-27T23:33:32.0567498-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\39.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\39.xnb</Output>
+      <Time>2014-07-27T23:33:32.0577499-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\4.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\4.xnb</Output>
+      <Time>2014-07-27T23:33:32.0817512-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\40.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\40.xnb</Output>
+      <Time>2014-07-27T23:33:32.05975-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\41.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\41.xnb</Output>
+      <Time>2014-07-27T23:33:32.06075-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\42.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\42.xnb</Output>
+      <Time>2014-07-27T23:33:32.0617501-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\43.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\43.xnb</Output>
+      <Time>2014-07-27T23:33:32.0637502-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\44.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\44.xnb</Output>
+      <Time>2014-07-27T23:33:32.0647503-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\45.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\45.xnb</Output>
+      <Time>2014-07-27T23:33:32.0667504-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\46.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\46.xnb</Output>
+      <Time>2014-07-27T23:33:32.0677504-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\47.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\47.xnb</Output>
+      <Time>2014-07-27T23:33:32.0687505-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\48.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\48.xnb</Output>
+      <Time>2014-07-27T23:33:32.0717507-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\49.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\49.xnb</Output>
+      <Time>2014-07-27T23:33:32.0727507-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\5.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\5.xnb</Output>
+      <Time>2014-07-27T23:33:32.0827513-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\50.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\50.xnb</Output>
+      <Time>2014-07-27T23:33:32.0747508-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\51.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\51.xnb</Output>
+      <Time>2014-07-27T23:33:32.0757509-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\52.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\52.xnb</Output>
+      <Time>2014-07-27T23:33:32.0767509-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\53.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\53.xnb</Output>
+      <Time>2014-07-27T23:33:32.077751-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\54.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\54.xnb</Output>
+      <Time>2014-07-27T23:33:32.0787511-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\6.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\6.xnb</Output>
+      <Time>2014-07-27T23:33:32.0837513-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\7.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\7.xnb</Output>
+      <Time>2014-07-27T23:33:32.0847514-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\8.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\8.xnb</Output>
+      <Time>2014-07-27T23:33:32.0047468-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PinkBean\DeathAnimation\9.png</Source>
+      <Name>Textures\PinkBean\DeathAnimation\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\9.xnb</Output>
+      <Time>2014-07-27T23:33:32.0137473-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ilbi.png</Source>
+      <Name>Textures\ilbi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\ilbi.xnb</Output>
+      <Time>2014-07-28T00:47:27.4784414-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\dexlessleft.png</Source>
+      <Name>Textures\dexlessleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\dexlessleft.xnb</Output>
+      <Time>2014-07-29T23:08:10.3412621-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\jumpleft.png</Source>
+      <Name>Textures\jumpleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\jumpleft.xnb</Output>
+      <Time>2014-07-29T23:08:47.4293834-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\jumpright.png</Source>
+      <Name>Textures\jumpright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\jumpright.xnb</Output>
+      <Time>2014-07-29T23:08:50.0675343-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Fonts\Arial.xnb</Output>
+      <Time>2014-07-05T19:04:51.7419273-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\NpcChat.spritefont</Source>
+      <Name>Fonts\NpcChat</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Fonts\NpcChat.xnb</Output>
+      <Time>2014-07-05T22:53:40.5430491-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\FightingPinkBeen.mp3</Source>
+      <Name>Sounds\FightingPinkBeen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\FightingPinkBeen.xnb</Output>
+      <Extra>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\FightingPinkBeen.wma</Extra>
+      <Time>2014-07-21T21:11:18.3711308-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PinkBean\bigbang.mp3</Source>
+      <Name>Sounds\PinkBean\bigbang</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\bigbang.xnb</Output>
+      <Time>2014-07-30T15:00:40.1789348-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PinkBean\damagereflect.mp3</Source>
+      <Name>Sounds\PinkBean\damagereflect</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\damagereflect.xnb</Output>
+      <Time>2014-07-30T15:00:40.1789348-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PinkBean\death.mp3</Source>
+      <Name>Sounds\PinkBean\death</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\death.xnb</Output>
+      <Time>2014-07-30T15:00:40.1799349-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PinkBean\genesis.mp3</Source>
+      <Name>Sounds\PinkBean\genesis</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\genesis.xnb</Output>
+      <Time>2014-07-30T15:00:40.1809349-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PinkBean\musicnote.mp3</Source>
+      <Name>Sounds\PinkBean\musicnote</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\musicnote.xnb</Output>
+      <Time>2014-07-30T15:00:40.1809349-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PinkBean\quake.mp3</Source>
+      <Name>Sounds\PinkBean\quake</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\quake.xnb</Output>
+      <Time>2014-07-30T15:00:40.181935-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMapleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMapleContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-05T22:23:56.8750292-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

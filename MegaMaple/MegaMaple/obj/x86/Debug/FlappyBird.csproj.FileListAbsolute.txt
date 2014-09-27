@@ -1,0 +1,32 @@
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\FlappyBird.exe
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\FlappyBird.pdb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.exe
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.pdb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\background.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\bird1.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\bird2.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\bird3.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\scroll.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\tuyaux.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\pixel.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\sand.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Fonts\font.xnb
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\gameover.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\bird1.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\bird2.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\bird3.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\scroll.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\tuyaux.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\sand.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Textures\gameover.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\Content\Fonts\font.xnb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\FlappyBird.exe
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\bin\x86\Debug\FlappyBird.pdb
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.exe
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBird\obj\x86\Debug\FlappyBird.pdb

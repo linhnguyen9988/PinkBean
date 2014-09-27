@@ -1,0 +1,568 @@
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\pixel.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\background.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\aria.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\dexless.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\chatbox.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\maplabel.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\mirror.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Mushmom.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebar.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\secret.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\bustershot.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\enemylifebar.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\enemylifebarpart.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_000.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_001.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_002.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_003.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_004.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_005.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_000f.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_001f.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_002f.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_003f.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_004f.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_005f.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_000.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_001.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_002.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_003.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_004.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_005.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\pinkbeanbackground.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\pbdr.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\Deflect_Missiles.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_20.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_21.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_22.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_23.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\20.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\21.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\22.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\23.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\24.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\25.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\26.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\27.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\0.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\1.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\10.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\11.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\12.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\13.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\14.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\15.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\16.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\17.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\18.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\19.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\2.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\20.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\21.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\22.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\23.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\24.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\25.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\26.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\27.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\28.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\29.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\3.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\30.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\31.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\32.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\33.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\34.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\35.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\36.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\37.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\38.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\39.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\4.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\40.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\41.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\42.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\43.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\44.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\45.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\46.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\47.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\48.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\49.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\5.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\50.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\51.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\52.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\53.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\54.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\6.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\7.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\8.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\9.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Fonts\Arial.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Fonts\NpcChat.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\FightingPinkBeen.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\FightingPinkBeen.wma
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.exe
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.pdb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.exe
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.pdb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\ilbi.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.csprojResolveAssemblyReference.cache
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\dexlessleft.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.exe.manifest
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.application
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.TrustInfo.xml
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.exe.manifest
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.application
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\jumpleft.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\jumpright.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\bigbang.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\damagereflect.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\death.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\genesis.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\musicnote.xnb
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\quake.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\CastingAnimation\9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\pixel.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\background.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\aria.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\dexless.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\chatbox.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\maplabel.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\mirror.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Mushmom.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebar.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\secret.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\bustershot.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\enemylifebar.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\enemylifebarpart.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_000.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_001.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_002.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_003.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_004.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_005.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_000f.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_001f.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_002f.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_003f.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_004f.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\Mushmom\Move\frame_005f.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_000.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_001.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_002.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_003.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_004.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Idle\frame_005.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\pinkbeanbackground.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\frame_9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\pbdr.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\DamageReflect\Deflect_Missiles.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\MusicNote\frame_19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_20.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_21.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_22.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_23.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BigBang\frame_9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\MusicNote\Megaphone\frame_9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\lifebarpart3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\20.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\21.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\22.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\23.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\24.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\25.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\26.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\27.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\GenesisEffect\9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\Genesis\CastingAnimation\9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\Attacks\BeanQuake\Effect\9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\0.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\1.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\10.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\11.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\12.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\13.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\14.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\15.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\16.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\17.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\18.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\19.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\2.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\20.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\21.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\22.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\23.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\24.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\25.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\26.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\27.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\28.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\29.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\3.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\30.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\31.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\32.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\33.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\34.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\35.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\36.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\37.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\38.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\39.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\4.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\40.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\41.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\42.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\43.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\44.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\45.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\46.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\47.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\48.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\49.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\5.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\50.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\51.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\52.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\53.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\54.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\6.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\7.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\8.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\PinkBean\DeathAnimation\9.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\ilbi.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\dexlessleft.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\jumpleft.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Textures\jumpright.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Fonts\Arial.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Fonts\NpcChat.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\FightingPinkBeen.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\bigbang.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\damagereflect.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\death.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\genesis.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\musicnote.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\PinkBean\quake.xnb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\Content\Sounds\FightingPinkBeen.wma
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.exe.manifest
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.application
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.exe
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\bin\x86\Release\MegaMaple.pdb
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.csprojResolveAssemblyReference.cache
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.TrustInfo.xml
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.exe.manifest
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.application
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.exe
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMaple\obj\x86\Release\MegaMaple.pdb

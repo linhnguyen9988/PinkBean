@@ -1,0 +1,3 @@
+C:\Users\Wynn\Desktop\MegaMaple\FlappyBird\FlappyBirdContent\obj\x86\Debug\MegaMapleContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wynn\Desktop\MegaMaple\MegaMaple\MegaMapleContent\obj\x86\Debug\MegaMapleContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMapleContent\obj\x86\Debug\MegaMapleContent.contentprojResolveAssemblyReference.cache

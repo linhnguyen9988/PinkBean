@@ -1,0 +1,2 @@
+c:\users\mathieu\documents\visual studio 2010\Projects\FlappyBird\FlappyBird\FlappyBirdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wynn\Desktop\FlappyBirdCloneXNAChallenge-master\FlappyBird\FlappyBird\FlappyBirdContent\obj\x86\Debug\FlappyBirdContent.contentprojResolveAssemblyReference.cache

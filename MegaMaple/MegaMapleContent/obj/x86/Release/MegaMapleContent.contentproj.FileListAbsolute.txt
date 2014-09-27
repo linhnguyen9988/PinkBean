@@ -1,0 +1,2 @@
+C:\Users\Wynn\Desktop\PinkBean\MegaMaple\MegaMapleContent\obj\x86\Release\MegaMapleContent.contentprojResolveAssemblyReference.cache
+C:\Users\Wynn\Desktop\Old Stuff\Old Programming 2014\PinkBean\MegaMaple\MegaMapleContent\obj\x86\Release\MegaMapleContent.contentprojResolveAssemblyReference.cache
